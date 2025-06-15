@@ -13,9 +13,7 @@
 
 <h3 align="center" style="color:pink;">🌱 Atualmente aprendendo:</h3>
 
-- 🐍 Python  
-- 🖥️ PowerShell  
-- 📊 Excel Avançado  
+- 🐍 Python   
 - 🌐 Redes e Segurança da Informação  
 
 ---
