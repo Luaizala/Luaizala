@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">✨ Olá, eu sou a Luh ✨</h1>
 
-<!--
-**Luaizala/Luaizala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center" style="color:pink;">💖 Sobre mim</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Ciência da Computação  
+- 💻 Apaixonada por tecnologia e resolução de problemas  
+- 🌸 Focada em redes, suporte, automação e segurança da informação  
+- 🚀 Sempre aprendendo e evoluindo  
+
+---
+
+<h3 align="center" style="color:pink;">🌱 Atualmente aprendendo:</h3>
+
+- 🐍 Python  
+- 🖥️ PowerShell  
+- 📊 Excel Avançado  
+- 🌐 Redes e Segurança da Informação  
+
+---
+
+<p align="center">
+✨ Sempre em busca de novos desafios ✨
+</p>
