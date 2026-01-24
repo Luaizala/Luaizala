@@ -17,6 +17,3 @@
 
 ---
 
-<p align="center" style="color:#D47FA6;">
-✨ Em busca de novos desafios e oportunidades! ✨
-</p>
