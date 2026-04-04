@@ -17,3 +17,4 @@
 
 ---
 
+🔗 [LinkedIn](https://www.linkedin.com/in/luana-luiza-araujo)
