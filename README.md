@@ -1,17 +1,15 @@
 <h1 align="center" style="color:#D47FA6;"> Olá, eu sou a Luh </h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luaizala&show_icons=true&theme=rose&hide_border=true&title_color=D47FA6&icon_color=D47FA6&text_color=555" alt="Estatísticas da Luh" />
-</p>
+
 
 ---
 
 <h3 align="center" style="color:#D47FA6;"> Sobre mim</h3>
 
 <p align="center">
-- 🎓 Estudante de Ciência da Computação <br>
-- 💖 Apaixonada por tecnologia e aprendizado constante <br>
-- ✨ Curiosa e dedicada, sempre buscando evoluir
+-  Estudante de Ciência da Computação <br>
+-  Apaixonada por tecnologia e aprendizado constante <br>
+-  Curiosa e dedicada, sempre buscando evoluir
 </p>
 
 ---
