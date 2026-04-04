@@ -13,8 +13,8 @@
 <h3 align="center" style="color:#D47FA6;"> Atualmente aprendendo</h3>
 
 - 🐍 Python  
-- 🌐 Redes e Segurança da Informação 
-
----
-        <h3 align="center" style="color:#D47FA6;"> Atualmente aprendendo</h3>
+- 🌐 Redes e Segurança da Informação
+  
+<h3 align="center" style="color:#D47FA6;"> Atualmente aprendendo</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-luiza-araujo)
+---
