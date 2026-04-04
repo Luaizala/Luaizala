@@ -14,7 +14,7 @@
 
 ---
 
-<h3 align="center" style="color:#D47FA6;"> Atualmente aprendendo</h3>
+<h3 align="center" style="color:#D47FA6;"> Aprendendo </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
