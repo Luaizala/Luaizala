@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#D47FA6;"> Olá, sou a Luana </h1>
+<h1 align="center" style="color:#D47FA6;"> Olá, bem-vindo!</h1>
 
 
 
